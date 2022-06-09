@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: #eee;
+
+}
+
+footer {
+    padding: 1rem 2rem;
+    background-color: coral;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+header {
+    background-color: chartreuse;
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+body h2 {
+    background-color: aqua;
+    padding: 1rem;
+}
+
+article {
+    padding: 1rem;
+    background-color: white;
+    margin: 1rem 30%;
+    text-align: center;
+}
