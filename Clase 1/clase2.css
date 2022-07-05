@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    background-color: #eee;
+}
+
+header {
+    background-color: rgb(17, 238, 17);
+    padding: 2rem 3rem;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+article {
+    margin: 1rem 30%;
+    background-color: white;
+    padding: 1rem 1rem;
+}
+
+article h2 {
+    text-align: center;
+}
+
+article p {
+    text-align: justify;
+}
